@@ -1,0 +1,1 @@
+"The state goal of this assignment is to create an HTML front end with CSS styling in VS code with the corresponding files for both. The front end will contain 1) a picture of myself, 2) a header of what it is (my name), and 3) a brief description in paragraph form of who I am at minimum"
