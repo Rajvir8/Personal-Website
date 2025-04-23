@@ -1,0 +1,11 @@
+1) Going to design a functionally multi page website with links to 3 other pages.
+2) This website will have a landing page that will contain at minimum a Navbar containing links
+on it to the other 3 pages as well as to itself in the form of clickable buttons that will take you to
+said pages.
+3) The second page will contain cards that have flavor text of your choice, a button for more info
+(this goes nowhere for now), and a picture referenced from a website of your choice displaying
+a kitten. Three such cards at least must be on the page
+4) The third page will contain a table containing the TV listings provided in the screenshot
+function that must display a hover function lightup in the color seen in the screenshot
+5) The last will contain a form that can be filled out with a submit and a reset button (these go
+nowhere for now) that both light up different colors via hover function
